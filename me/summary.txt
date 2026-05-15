@@ -1,0 +1,152 @@
+My name is Ruchika Motwani. I’m a Data Analytics Engineer, AI-focused builder, and recent Master’s graduate from The University of Texas at Austin, where I specialized in Data Science & Analytics. I enjoy building systems that transform messy, real-world data into scalable analytics workflows, automation systems, intelligent dashboards, and AI-powered solutions using Python, SQL, machine learning, and modern AI tooling.
+
+I’m originally from Mumbai, India, and currently based in Austin, Texas. Outside of work, I love good coffee, late-night brainstorming sessions, traveling, and finding tiny local food places that somehow always end up being better than the famous ones. I enjoy conversations about AI, startups, analytics, and technology trends, and I’m naturally someone who learns best by building things hands-on. Also, I firmly believe fries taste better when stolen from someone else’s plate.
+
+Professionally, my background sits at the intersection of analytics engineering, data science, operational analytics, business intelligence, machine learning, automation systems, and AI-driven workflows. A large part of my work involves taking disconnected operational processes, messy datasets, manual workflows, or inefficient reporting systems and turning them into scalable, automated, and decision-focused systems that teams can actually use in real-world environments.
+
+I recently graduated with my Master’s degree in Information Studies specializing in Data Science & Analytics from The University of Texas at Austin with a GPA of 3.89/4.0. Before that, I completed my Bachelor of Technology in Computer Engineering from University of Mumbai.
+
+Most recently, I worked with the The University of Texas System Office of Talent & Innovation, where I contributed to multiple analytics engineering and operational automation initiatives supporting internship and law clerkship programs across 14 UT institutions. My work involved building automation workflows, analytics dashboards, reporting systems, ETL pipelines, and operational tools that improved visibility, reduced manual effort, and streamlined decision-making processes.
+
+One of the major systems I worked on involved building a scalable Applicant Tracking and operational analytics platform using Python, SQL, Streamlit, Power BI, Excel automation, and workflow logic systems. The platform automated eligibility validation, ranking workflows, rejection logging, reporting, and operational monitoring across the internship pipeline. The system significantly reduced manual effort by approximately 71% while improving turnaround time, consistency, and operational visibility across teams handling high-volume application workflows.
+
+I also worked heavily on Power BI dashboards and operational analytics systems involving employee data, CliftonStrengths assessments, workshop attendance, onboarding metrics, Qualtrics survey analysis, departmental participation tracking, and engagement reporting. These dashboards helped centralize analytics across departments and reduced manual tracking work by more than 12 hours per week.
+
+A large part of my work involved solving messy operational problems:
+
+inconsistent reporting structures,
+disconnected datasets,
+duplicate records,
+broken manual workflows,
+inefficient reporting pipelines,
+and difficult stakeholder requirements.
+
+I genuinely enjoy this type of systems work because it combines analytics, engineering, business understanding, communication, and process optimization all together.
+
+Before moving to the US, I worked in Mumbai in roles involving data engineering, operational analytics, ETL pipelines, cloud workflows, SQL optimization, and reporting systems. At Magcons Consulting Engineers, I optimized MySQL workflows through indexing and JOIN restructuring, automated validation systems for operational datasets, built ETL pipelines connecting APIs and SQL systems, migrated operational documents to AWS S3 using Boto3, and developed Tableau and Power BI dashboards for KPI tracking and operational reporting.
+
+I also worked as a Data Science Intern at Hari Om Sales, where I analyzed more than 500K+ sales records to identify business trends, improve inventory allocation, support pricing decisions, and optimize reporting workflows. I built forecasting models using regression and time-series techniques, developed customer segmentation systems using clustering algorithms, and worked on centralized ETL and reporting systems.
+
+One particularly interesting area there involved exploring LLM APIs and AI-powered workflows for customer feedback summarization and sentiment analysis, which later became one of the reasons I became deeply interested in Generative AI and Agentic AI systems.
+
+Technically, I primarily work with:
+
+Python
+SQL
+Pandas
+NumPy
+Scikit-learn
+Power BI
+Tableau
+Snowflake
+AWS
+MySQL
+Streamlit
+ETL/ELT pipelines
+Data warehousing
+Dashboard development
+Reporting automation
+Analytics engineering
+Machine learning workflows
+Operational analytics systems
+Data modeling
+KPI reporting frameworks
+
+More recently, I’ve been heavily focused on AI systems, Generative AI, LLM applications, and Agentic AI workflows. I’ve been actively learning and building projects involving:
+
+OpenAI Agents SDK
+CrewAI
+LangGraph
+AutoGen
+MCP-based workflows
+Multi-agent orchestration systems
+AI automation pipelines
+LLM-powered applications
+Autonomous workflow systems
+AI-powered operational assistants
+
+Right now, a major part of my focus is understanding how AI systems can evolve from simple chatbot interfaces into intelligent orchestration systems capable of reasoning, delegation, workflow automation, tool usage, memory handling, and operational augmentation.
+
+I strongly prefer hands-on learning through real implementation projects rather than only theoretical learning. I’ve been actively building AI agents, orchestration workflows, and multi-agent systems to understand how autonomous AI systems behave in practical environments.
+
+Some of the major projects I’ve worked on include:
+
+Telecom Churn Prediction System:
+I built an end-to-end machine learning pipeline using Random Forest and Logistic Regression models to predict telecom customer churn. The project involved preprocessing, feature engineering, model optimization, exploratory analysis, and SHAP-based interpretability workflows.
+
+The project analyzed customer behavioral patterns, billing history, tenure, and contract structures to identify churn indicators and support customer retention strategies. Rather than focusing only on accuracy, I also explored recall-focused optimization strategies to better identify high-risk churn users early.
+
+Google Trends Marketing Analytics Dashboard:
+I developed a Tableau-based analytics dashboard integrating Google Trends data with advertising KPIs like ROAS, conversions, ad spend, impressions, and engagement metrics. The project focused on analyzing the relationship between search interest and marketing performance to guide marketing investment and campaign strategy decisions.
+
+Retail Forecasting & Business Analytics:
+I worked on forecasting systems using regression and time-series analytics to improve inventory planning, pricing strategies, and operational decision-making.
+
+Operational Analytics & Automation Systems:
+A major part of my work involves building scalable analytics workflows, ETL pipelines, reporting systems, operational dashboards, KPI tracking systems, validation frameworks, and business intelligence solutions designed to reduce manual work and improve organizational visibility.
+
+AI & Agentic AI Systems:
+Currently, a large part of my focus involves experimenting with autonomous AI systems, multi-agent orchestration workflows, AI automation pipelines, and intelligent operational assistants powered by modern LLM frameworks.
+
+I’m particularly interested in how agentic systems can improve productivity, automate workflows, support decision-making, and augment operational systems inside organizations.
+
+I also published research with IEEE related to AQI forecasting using RNNs, LSTMs, and GRUs. The research focused on deep learning-based forecasting workflows, hyperparameter tuning, cross-validation, and improving real-world AQI prediction reliability.
+
+In addition to academics and professional work, I’ve completed certifications and learning programs involving:
+
+Agentic AI systems
+Multi-agent orchestration
+Generative AI workflows
+Machine learning
+Data analytics
+Cloud and AI tooling
+Modern LLM application development
+
+I recently completed an intensive Agentic AI learning program involving:
+
+OpenAI Agents SDK
+CrewAI
+LangGraph
+AutoGen
+MCP servers and workflows
+Autonomous agent systems
+AI orchestration architectures
+AI-powered engineering and research agents
+
+I enjoy continuously learning because technology — especially AI — is evolving incredibly fast, and I genuinely enjoy staying close to the builder side of that evolution.
+
+From the testimonials and feedback I’ve received on my portfolio and professional work, people often describe me as:
+
+highly analytical,
+quick to learn,
+proactive,
+creative in problem solving,
+collaborative,
+dependable,
+detail-oriented,
+business-minded,
+and someone who takes ownership of projects.
+
+Several people I’ve worked with have highlighted my ability to:
+
+simplify messy workflows,
+communicate technical ideas clearly,
+work independently,
+learn quickly under ambiguity,
+balance technical depth with business understanding,
+and bring positive energy into collaborative environments.
+
+I care a lot about building systems that are not only technically strong but also genuinely useful for real people. I enjoy storytelling through dashboards, analytics systems, AI products, and presentations because I believe the best technical systems help people make decisions faster, more confidently, and with less friction.
+
+What probably defines me most is that I genuinely enjoy building things:
+
+analytics systems,
+automation workflows,
+AI agents,
+dashboards,
+data pipelines,
+reporting systems,
+operational tools,
+and ideas that sit somewhere between analytics, AI, engineering, and product thinking.
+
+Outside work, I’m usually exploring coffee shops, brainstorming startup or AI ideas late into the night, discovering hidden food places, traveling, or diving deep into conversations about technology, analytics, AI systems, and the future of intelligent automation.
