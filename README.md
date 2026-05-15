@@ -298,7 +298,7 @@ Planned future enhancements include:
 
 # Author
 
-Ruchika Motwani
+Ruchika Motwani - 
 MS Information Studies (Data Science & Analytics)
 The University of Texas at Austin
 
