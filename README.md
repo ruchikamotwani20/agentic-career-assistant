@@ -298,11 +298,15 @@ Planned future enhancements include:
 
 # Author
 
-Ruchika Motwani - 
-MS Information Studies (Data Science & Analytics)
-The University of Texas at Austin
+**Ruchika Motwani - **
+**MS Information Studies (Data Science & Analytics)**
+**The University of Texas at Austin**
 
-Follow And Connect With Me on LinkedIn:
-https://www.linkedin.com/in/ruchika-motwani/
+**Follow And Connect With Me On LinkedIn:**
+https://www.linkedin.com/in/ruchikamotwani20/
+
+**Portfolio Link**
+https://ruchika-motwani.notion.site/portfolio
+
 
 ---
